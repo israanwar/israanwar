@@ -1,18 +1,18 @@
 # Hi, I'm Isra Anwar
 
-**Web Development · SEO & AI Search · Digital Advertising & Analytics**
+**Commercial Growth Strategist | Executive Leadership Experience | Branding & Marketing | SEO, AEO & GEO | Web Development & AI Integration | 13+ Years**
 
-I build digital experiences with a focus on clear web presence, search visibility, and measurable marketing. My work connects website development with SEO, AI-enabled workflows, analytics, and advertising platforms—helping ideas become useful, discoverable, and easier to evaluate.
+I am a Commercial Growth Strategist with 13+ years of experience across executive leadership, branding, marketing, search strategy, web development, and AI integration. I work at the intersection of commercial direction and digital execution—turning business goals into stronger brands, discoverable digital experiences, and measurable growth initiatives.
 
-I am continuing to deepen my practical work in AI tools and APIs, AI Search, technical SEO, marketing measurement, and digital media planning.
+My approach combines strategic leadership with practical delivery: positioning a brand clearly, improving its visibility across search environments, and using technology and AI workflows where they create real business value.
 
-## Focus Areas
+## Expertise
 
-- **Web Development** — responsive web experiences and portfolio-led project delivery.
-- **SEO & AI Search** — technical SEO fundamentals, AI Search visibility, and discoverability.
-- **Analytics & Measurement** — Google Analytics and marketing measurement foundations.
-- **Digital Advertising** — Apple Ads, Amazon Ads, Spotify Advertising, LinkedIn Marketing, and Google Ad Manager learning paths.
-- **AI Workflows** — Claude, Claude Code, Claude Cowork, and building with the Claude API.
+- **Commercial Growth & Executive Leadership** — aligning business priorities, brand direction, and delivery.
+- **Branding & Marketing** — shaping clear positioning, messaging, and marketing initiatives.
+- **SEO, AEO & GEO** — improving visibility across traditional search, answer engines, and generative search environments.
+- **Web Development & AI Integration** — building digital experiences and applying AI workflows where they support the commercial objective.
+- **Analytics, Measurement & Media** — connecting performance signals with informed marketing and advertising decisions.
 
 ## Selected GitHub Work
 
@@ -54,12 +54,13 @@ I am continuing to deepen my practical work in AI tools and APIs, AI Search, tec
 - [The Brand Builder — Amazon Ads](https://advertising.amazon.com/academy/certificates/d8407a9b-68c9-4af4-a9b7-ab5bca92e782)
 - [The Performance Expert — Amazon Ads](https://advertising.amazon.com/academy/certificates/3899eabd-213f-4862-a87a-8f9b670fc2c1)
 
-## Learning & Growth
+## Continuous Development
 
-I am building a portfolio that combines web development, search strategy, AI-assisted workflows, and performance measurement. I value practical learning, clear documentation, and work that can be reviewed openly.
+I actively develop my knowledge of AI capabilities, AI APIs, AI Search, technical SEO, marketing measurement, and digital media through practical portfolio work and verified professional learning.
 
 ## Let's Connect
 
 - [GitHub](https://github.com/israanwar)
+- [LinkedIn](https://www.linkedin.com/in/israanwarr/)
 
-Always open to learning, collaboration, and building digital work with a clear purpose.
+Open to meaningful collaboration, strategic conversations, and digital work built with a clear commercial purpose.
