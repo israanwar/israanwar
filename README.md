@@ -17,10 +17,6 @@ My approach combines strategic leadership with practical delivery: positioning a
 ## Selected GitHub Work
 
 - [TADCO.co.id](https://github.com/israanwar/TADCO.co.id) — Website development portfolio repository.
-- [AC Dive Club](https://github.com/israanwar/AC-Dive-Club) — Dive-club website portfolio repository.
-- [Daengkuliner](https://github.com/israanwar/Daengkuliner) — Makassar culinary web portfolio repository.
-- [Caripondokan](https://github.com/israanwar/Caripondokan) — Boarding-room discovery web portfolio repository.
-- [Kopi Break](https://github.com/israanwar/Kopi-Break) — Coffee-space web portfolio repository.
 - [Okkax.com](https://github.com/israanwar/okkax.com) — Integrated event ecosystem platform for organisers, talent, venues, vendors, sponsors, ticketing, payments, and operations.
 - [Okkarhys.com](https://github.com/israanwar/okkarhys.com) — Personal website and portfolio repository.
 - [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
