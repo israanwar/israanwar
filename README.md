@@ -22,7 +22,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [Okkarhys.com](https://github.com/israanwar/okkarhys.com) — Personal website and portfolio repository.
 - [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
 
-## Certifications — 2026
+## Certifications & Credentials
 
 ### AI & Developer Tools
 
