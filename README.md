@@ -11,17 +11,6 @@ I turn business goals into stronger brands, discoverable digital experiences, an
 - Web Development & AI Integration
 - Analytics, Measurement & Media
 
-## Selected GitHub Work
-
-- [TADCO.co.id](https://tadco.co.id) — Website development portfolio repository.
-- [Okkax.com](https://okkax.com) — Integrated event ecosystem platform for organisers, talent, venues, vendors, sponsors, ticketing, payments, and operations.
-- [OkkaLabs](https://github.com/israanwar/OkkaLabs) — Okkammerce project repository.
-- [Okkarhys.com](https://www.okkarhys.com) — Personal website and portfolio repository.
-- [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
-- [Centra Aktual](https://centraaktual.biz.id/) — Website development portfolio project.
-- [Radarpedia](https://radarpedia.my.id/) — Website development portfolio project.
-- [Daewoong](https://website.informer.com/enjoy.daewoong.co.id) — Website development portfolio project reference.
-
 ## Certifications & Credentials
 
 ### [AI & Developer Tools](https://israanwar.github.io/certifications/ai-developer-tools/)
@@ -116,6 +105,17 @@ Click a certificate to view it.
 <summary>Tips Membuat Situs Bisnis yang Efektif — Google x Gapura Digital, 2019</summary>
 <img src="assets/certifications/google-gapura-tips-situs-bisnis.png" alt="Sertifikat Tips membuat Situs Bisnis yang Efektif — Google x Gapura Digital" width="600">
 </details>
+
+## Selected GitHub Work
+
+- [TADCO.co.id](https://tadco.co.id) — Website development portfolio repository.
+- [Okkax.com](https://okkax.com) — Integrated event ecosystem platform for organisers, talent, venues, vendors, sponsors, ticketing, payments, and operations.
+- [OkkaLabs](https://github.com/israanwar/OkkaLabs) — Okkammerce project repository.
+- [Okkarhys.com](https://www.okkarhys.com) — Personal website and portfolio repository.
+- [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
+- [Centra Aktual](https://centraaktual.biz.id/) — Website development portfolio project.
+- [Radarpedia](https://radarpedia.my.id/) — Website development portfolio project.
+- [Daewoong](https://website.informer.com/enjoy.daewoong.co.id) — Website development portfolio project reference.
 
 ## Portfolio
 
