@@ -115,7 +115,7 @@ Click a certificate to view it.
 <img src="assets/certifications/google-gapura-tips-situs-bisnis.png" alt="Sertifikat Tips membuat Situs Bisnis yang Efektif — Google x Gapura Digital" width="600">
 </details>
 
-## [Portfolio](https://www.okkarhys.com/portfolio)
+## Portfolio
 
 Click a category to view the work.
 
