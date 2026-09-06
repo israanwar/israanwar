@@ -22,6 +22,62 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [Okkarhys.com](https://www.okkarhys.com) — Personal website and portfolio repository.
 - [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
 
+## Portfolio
+
+Click a category to view the work.
+
+### Brand Campaigns
+
+<details>
+<summary>Aseera (Skincare)</summary>
+<img src="assets/portfolio/brand-aseera.png" alt="Aseera skincare brand campaign — product photography and packaging" width="800">
+</details>
+
+<details>
+<summary>The Clinic Beautylosophy (Plastic Surgery & Aesthetic Clinic)</summary>
+<img src="assets/portfolio/brand-theclinic-beautylosophy.png" alt="The Clinic Beautylosophy — plastic surgery and aesthetic clinic ad creatives" width="800">
+</details>
+
+<details>
+<summary>Sushi Tei (Restaurant)</summary>
+<img src="assets/portfolio/brand-sushi-tei.png" alt="Sushi Tei restaurant brand campaign creatives" width="800">
+</details>
+
+<details>
+<summary>Kopi Break (Coffee Shop)</summary>
+<img src="assets/portfolio/brand-kopi-break.png" alt="Kopi Break coffee shop brand campaign photography" width="800">
+</details>
+
+### Event Organizer
+
+<details>
+<summary>Concerts, festivals & community events</summary>
+<img src="assets/portfolio/event-organizer.png" alt="Event organizer poster designs — concerts, festivals, and community events" width="800">
+</details>
+
+### Web Development
+
+<details>
+<summary>Websites built and launched</summary>
+<img src="assets/portfolio/web-development-1.png" alt="Web development portfolio — websites built and launched, part 1" width="800">
+<img src="assets/portfolio/web-development-2.png" alt="Web development portfolio — websites built and launched, part 2" width="800">
+</details>
+
+### Search Engine Optimization
+
+<details>
+<summary>Traffic growth & analytics results</summary>
+<img src="assets/portfolio/seo-1.png" alt="SEO results — traffic growth milestones and hosting notifications" width="800">
+<img src="assets/portfolio/seo-2.png" alt="SEO results — Google Analytics and Search Console dashboards" width="800">
+</details>
+
+### Facebook Ads
+
+<details>
+<summary>Ad campaign performance</summary>
+<img src="assets/portfolio/facebook-ads.png" alt="Facebook Ads campaign performance — audience breakdown and results" width="800">
+</details>
+
 ## Certifications & Credentials
 
 ### AI & Developer Tools
