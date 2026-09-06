@@ -54,6 +54,50 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [The Brand Builder — Amazon Ads](https://advertising.amazon.com/academy/certificates/d8407a9b-68c9-4af4-a9b7-ab5bca92e782)
 - [The Performance Expert — Amazon Ads](https://advertising.amazon.com/academy/certificates/3899eabd-213f-4862-a87a-8f9b670fc2c1)
 
+### Meta Blueprint & IBM SkillsBuild
+
+Click a certificate to view it.
+
+<details>
+<summary>Opportunity Score: Experimentally Proven Recommendations to Help Improve Your Campaign Performance — Meta Blueprint</summary>
+<img src="assets/certifications/meta-opportunity-score.png" alt="Opportunity Score: experimentally proven recommendations to help improve your campaign performance — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Meta Advertising Standards and Brand Safety — Meta Blueprint</summary>
+<img src="assets/certifications/meta-advertising-standards.png" alt="Meta Advertising Standards and brand safety — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Data Privacy and Policies at Meta — Meta Blueprint</summary>
+<img src="assets/certifications/meta-data-privacy.png" alt="Data privacy and policies at Meta — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Advertising Solutions and AI — Meta Blueprint</summary>
+<img src="assets/certifications/meta-advertising-ai.png" alt="Advertising solutions and AI — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Campaign Evaluation and Measurement Strategies — Meta Blueprint</summary>
+<img src="assets/certifications/meta-campaign-evaluation.png" alt="Campaign evaluation and measurement strategies — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Business Management Tools and Ads Resources — Meta Blueprint</summary>
+<img src="assets/certifications/meta-business-tools.png" alt="Business management tools and ads resources — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Advertising Solutions Across the Marketing Funnel — Meta Blueprint</summary>
+<img src="assets/certifications/meta-advertising-funnel.png" alt="Advertising solutions across the marketing funnel — Meta Blueprint certificate" width="600">
+</details>
+
+<details>
+<summary>Design an AI-Supported Marketing Campaign — IBM SkillsBuild</summary>
+<img src="assets/certifications/ibm-ai-marketing-campaign.jpg" alt="Design an AI-Supported Marketing Campaign — IBM SkillsBuild completion certificate" width="600">
+</details>
+
 ## Continuous Development
 
 I actively develop my knowledge of AI capabilities, AI APIs, AI Search, technical SEO, marketing measurement, and digital media through practical portfolio work and verified professional learning.
