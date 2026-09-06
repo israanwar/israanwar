@@ -21,6 +21,9 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [OkkaLabs](https://github.com/israanwar/OkkaLabs) — Okkammerce project repository.
 - [Okkarhys.com](https://www.okkarhys.com) — Personal website and portfolio repository.
 - [MetodePenelitian.com](https://github.com/israanwar/MetodePenelitian.com) — Research-methods website repository.
+- [Centra Aktual](https://centraaktual.biz.id/) — Website development portfolio project.
+- [Radarpedia](https://radarpedia.my.id/) — Website development portfolio project.
+- [Daewoong](https://website.informer.com/enjoy.daewoong.co.id) — Website development portfolio project reference.
 
 ## Certifications & Credentials
 
