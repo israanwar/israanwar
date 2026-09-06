@@ -98,6 +98,23 @@ Click a certificate to view it.
 <img src="assets/certifications/ibm-ai-marketing-campaign.jpg" alt="Design an AI-Supported Marketing Campaign — IBM SkillsBuild completion certificate" width="600">
 </details>
 
+### Training & Workshops
+
+<details>
+<summary>Implementasi Data Science dalam Sepak Bola — Shift Talks (Shift Academy x Ruang Taktik), 2022</summary>
+<img src="assets/certifications/shift-talks-data-science.png" alt="Certificate of Accomplishment — Implementasi Data Science dalam Sepak Bola, Shift Talks" width="600">
+</details>
+
+<details>
+<summary>Cara Mudah Membuat Situs untuk Bisnis Anda — Google x Gapura Digital, 2019</summary>
+<img src="assets/certifications/google-gapura-cara-membuat-situs.png" alt="Sertifikat Cara Mudah membuat Situs untuk Bisnis Anda — Google x Gapura Digital" width="600">
+</details>
+
+<details>
+<summary>Tips Membuat Situs Bisnis yang Efektif — Google x Gapura Digital, 2019</summary>
+<img src="assets/certifications/google-gapura-tips-situs-bisnis.png" alt="Sertifikat Tips membuat Situs Bisnis yang Efektif — Google x Gapura Digital" width="600">
+</details>
+
 ## Portfolio
 
 Click a category to view the work.
@@ -154,23 +171,6 @@ Click a category to view the work.
 <img src="assets/portfolio/facebook-ads.png" alt="Facebook Ads campaign performance — audience breakdown and results" width="800">
 </details>
 
-
-### Training & Workshops
-
-<details>
-<summary>Implementasi Data Science dalam Sepak Bola — Shift Talks (Shift Academy x Ruang Taktik), 2022</summary>
-<img src="assets/certifications/shift-talks-data-science.png" alt="Certificate of Accomplishment — Implementasi Data Science dalam Sepak Bola, Shift Talks" width="600">
-</details>
-
-<details>
-<summary>Cara Mudah Membuat Situs untuk Bisnis Anda — Google x Gapura Digital, 2019</summary>
-<img src="assets/certifications/google-gapura-cara-membuat-situs.png" alt="Sertifikat Cara Mudah membuat Situs untuk Bisnis Anda — Google x Gapura Digital" width="600">
-</details>
-
-<details>
-<summary>Tips Membuat Situs Bisnis yang Efektif — Google x Gapura Digital, 2019</summary>
-<img src="assets/certifications/google-gapura-tips-situs-bisnis.png" alt="Sertifikat Tips membuat Situs Bisnis yang Efektif — Google x Gapura Digital" width="600">
-</details>
 
 ## Continuous Development
 
