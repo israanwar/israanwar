@@ -98,7 +98,7 @@ Click a certificate to view it.
 <img src="assets/certifications/ibm-ai-marketing-campaign.jpg" alt="Design an AI-Supported Marketing Campaign — IBM SkillsBuild completion certificate" width="600">
 </details>
 
-### Earlier Certificates
+### Training & Workshops
 
 <details>
 <summary>Implementasi Data Science dalam Sepak Bola — Shift Talks (Shift Academy x Ruang Taktik), 2022</summary>
