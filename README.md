@@ -24,7 +24,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 
 ## Certifications & Credentials
 
-### AI & Developer Tools
+### [AI & Developer Tools](https://israanwar.github.io/certifications/ai-developer-tools/)
 
 - [Claude 101](https://verify.skilljar.com/c/nuevewitxf89)
 - [Claude Code 101](https://verify.skilljar.com/c/fhtkrxhzqhxc)
@@ -32,7 +32,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [AI Capabilities and Limitations](https://academy.claude.com/verify/9f76d33420da71607a1dff2bbc9c3183)
 - [Building with the Claude API](https://academy.claude.com/verify/737ef965805e087af65b72c28b57b8ab)
 
-### SEO, Search & Analytics
+### [SEO, Search & Analytics](https://israanwar.github.io/certifications/seo-search-analytics/)
 
 - [Google Analytics](https://skillshop.credential.net/29adf04b-326a-4d42-ac16-765f7ee7a0bb#acc.JmcydX6U)
 - [Certified in Ahrefs Marketing Platform](https://ahrefs.com/academy/certificate/97dcdd8085c04f8aa6e45cf7767bb6b6)
@@ -41,7 +41,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [Technical SEO and AI Search Essentials with Semrush](https://static.semrush.com/academy/certificates/1ed4632abf/isra-anwar_25.pdf)
 - [LinkedIn Marketing Measurement Certification](https://training.marketing.linkedin.com/verify/yffmqqh862i5)
 
-### Advertising, Content & Growth
+### [Advertising, Content & Growth](https://israanwar.github.io/certifications/advertising-content-growth/)
 
 - [Apple Ads Certified](https://certification-ads.apple.com/certificate/EpppzS2EvG)
 - [Spotify Advertising Fundamentals Certification](https://advertisingacademy.byspotify.com/student/award/7S5tCgaHTZBdpDHAo1Rh9eWg)
@@ -54,7 +54,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [The Brand Builder — Amazon Ads](https://advertising.amazon.com/academy/certificates/d8407a9b-68c9-4af4-a9b7-ab5bca92e782)
 - [The Performance Expert — Amazon Ads](https://advertising.amazon.com/academy/certificates/3899eabd-213f-4862-a87a-8f9b670fc2c1)
 
-### Meta Blueprint & IBM SkillsBuild
+### [Meta Blueprint & IBM SkillsBuild](https://israanwar.github.io/certifications/meta-blueprint-ibm-skillsbuild/)
 
 Click a certificate to view it.
 
@@ -98,7 +98,7 @@ Click a certificate to view it.
 <img src="assets/certifications/ibm-ai-marketing-campaign.jpg" alt="Design an AI-Supported Marketing Campaign — IBM SkillsBuild completion certificate" width="600">
 </details>
 
-### Training & Workshops
+### [Training & Workshops](https://israanwar.github.io/certifications/training-workshops/)
 
 <details>
 <summary>Implementasi Data Science dalam Sepak Bola — Shift Talks (Shift Academy x Ruang Taktik), 2022</summary>
