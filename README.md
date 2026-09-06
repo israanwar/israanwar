@@ -1,18 +1,15 @@
 # Hi, I'm Isra Anwar
 
-**Commercial Growth Strategist | Branding & Marketing | SEO, AEO & GEO | Web Development & AI Integration | 13+ Years**
+**Commercial Growth Strategist with 13+ years of experience in branding, marketing, SEO, AEO, GEO, web development, and AI integration.**
 
-I am a Commercial Growth Strategist with 13+ years of experience across executive leadership, branding, marketing, search strategy, web development, and AI integration. I work at the intersection of commercial direction and digital execution—turning business goals into stronger brands, discoverable digital experiences, and measurable growth initiatives.
-
-My approach combines strategic leadership with practical delivery: positioning a brand clearly, improving its visibility across search environments, and using technology and AI workflows where they create real business value.
+I turn business goals into stronger brands, discoverable digital experiences, and measurable growth.
 
 ## Expertise
 
-- **Commercial Growth & Executive Leadership** — aligning business priorities, brand direction, and delivery.
-- **Branding & Marketing** — shaping clear positioning, messaging, and marketing initiatives.
-- **SEO, AEO & GEO** — improving visibility across traditional search, answer engines, and generative search environments.
-- **Web Development & AI Integration** — building digital experiences and applying AI workflows where they support the commercial objective.
-- **Analytics, Measurement & Media** — connecting performance signals with informed marketing and advertising decisions.
+- Commercial Growth & Brand Strategy
+- SEO, AEO & GEO
+- Web Development & AI Integration
+- Analytics, Measurement & Media
 
 ## Selected GitHub Work
 
