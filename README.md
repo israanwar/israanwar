@@ -32,6 +32,7 @@ My approach combines strategic leadership with practical delivery: positioning a
 - [AI Capabilities and Limitations](https://academy.claude.com/verify/9f76d33420da71607a1dff2bbc9c3183)
 - [Building with the Claude API](https://academy.claude.com/verify/737ef965805e087af65b72c28b57b8ab)
 - [OpenAI Academy — Agents and Workflows](https://academy.openai.com/home/certificate/vrllcwxs89)
+- [OpenAI Academy — Applied AI Foundations](https://academy.openai.com/home/certificate/hgila7fxlo)
 
 ### [SEO, Search & Analytics](https://israanwar.github.io/certifications/seo-search-analytics/)
 
